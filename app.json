@@ -1,9 +1,9 @@
 {
-    "name": "Geez Pyro Userbot",
+    "name": "Zemaa Userbot",
     "description": "UserBot BIASA AJAH !!!.",
-    "logo": "https://telegra.ph/file/c78bb1efdeed38ee16eb2.png",
+    "logo": "https://files.catbox.moe/9ll14n.jpg",
     "keywords": ["telegram", "userbot", "Geez", "pyrogram"],
-    "repository": "https://github.com/hitokizzy/Geez-Pyro",
+    "repository": "https://github.com/zesvnteen/ZeeUbot",
     "stack": "container",
     "env": {
         "STRING_SESSION1": {
@@ -23,12 +23,12 @@
         "OWNER_ID": {
             "description": "Fill there your I'd go to @geezramrobot pm and type /id",
             "required": true,
-            "value": "1234567890"
+            "value": "7680882337"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "7701626565:AAFkkI1XfyrSc9LSN5Pb3C0GGZBcu6_mN9Y"
         },
         "HEROKU_API_KEY": {
             "description": "Heroku Api Key",
