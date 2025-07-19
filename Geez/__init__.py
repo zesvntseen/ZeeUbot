@@ -113,9 +113,9 @@ TEMP_SETTINGS["PM_LAST_MSG"] = {}
 
 app = Client(
     name="app",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN,
+    api_id=26216968,
+    api_hash=6b99b286453e622432d36fc193e6d9ce,
+    bot_token=7701626565:AAFkkI1XfyrSc9LSN5Pb3C0GGZBcu6_mN9Y,
     plugins=dict(root="Geez/modules/bot"),
     in_memory=True,
 )
